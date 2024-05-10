@@ -2,8 +2,8 @@ import requests
 import time
 import random
 
-# url here
-url = 'http://example.com'
+# REPLACE ME!!!!
+url = 'http://google.com'
 
 # user-agents
 user_agents = [
